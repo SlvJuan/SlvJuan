@@ -7,7 +7,7 @@ Full Stack Developer
 Soy estudiante de Tecnología en Análisis y Desarrollo de Software desde el 9 de octubre de 2025. Me apasiona la programación y el desarrollo web. Actualmente, estoy fortaleciendo mis conocimientos y desarrollando proyectos que me permiten mejorar mis habilidades como desarrollador.
 
 * 🌍  I'm based in Garzón Huila
-* 🖥️  See my portfolio at [My portafolio](http://https://slvjuan.github.io/Portafolio/)
+* 🖥️  See my portfolio at [My portafolio](https://slvjuan.github.io/Portafolio/)
 * ✉️  You can contact me at [juansilvestre015@gmail.com](mailto:juansilvestre015@gmail.com)
 
 <p align="left">
